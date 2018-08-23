@@ -1,2 +1,5 @@
 gunicorn
 Flask
+line-bot-sdk
+requests
+json
