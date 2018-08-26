@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Aug 25 00:11:54 2018
+
+@author: linzino
+"""
+
 from pymongo import MongoClient
 import pymongo
 import urllib.parse

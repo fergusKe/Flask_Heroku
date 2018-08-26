@@ -1,8 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Aug 25 00:17:32 2018
+
+@author: linzino
+"""
 import requests #引入函式庫
 from bs4 import BeautifulSoup
 import re
 import json
 import feedparser
+
 
 def udn_news():
     '''
