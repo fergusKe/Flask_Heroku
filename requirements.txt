@@ -4,4 +4,5 @@ line-bot-sdk
 requests
 feedparser
 pymongo
+pandas
 beautifulsoup4
